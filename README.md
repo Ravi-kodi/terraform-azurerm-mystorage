@@ -1,1 +1,1 @@
-# terraform-azurerm-mystorage
+# terraform-azurerm-storageaccount
